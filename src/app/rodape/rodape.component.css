@@ -1,0 +1,29 @@
+#bgcor{
+    background-color: rgb(63, 85, 150) !important
+}
+ul.social-network{
+    list-style: none;
+    padding: 0;
+}
+ul.social-network li{
+    display: inline;
+    margin: 0;
+    padding: 5px;
+}
+.fa{
+    font-size: 30pt;
+    color: black;
+    padding: 10px;
+}
+.fa-instagram:hover{
+    color: #C13584;
+}
+.fa-linkedin-square:hover{
+    color: rgb(4, 108, 199)
+}
+.fa-facebook-square:hover{
+    color: rgb(2, 76, 237)
+}
+.fa-github-alt:hover{
+    color: gray
+}
