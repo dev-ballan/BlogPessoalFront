@@ -1,5 +1,5 @@
 #bgcor{
-    background-color: #3c6382 !important
+    background-color: #130f40 !important
 }
 ul.social-network{
     list-style: none;
@@ -25,5 +25,8 @@ ul.social-network li{
     color: rgb(2, 76, 237)
 }
 .fa-github-alt:hover{
-    color: gray
+    color: white
+}
+.bg-color{
+    background-color: #808e9b;
 }
